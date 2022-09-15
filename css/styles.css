@@ -303,7 +303,6 @@ position:relative;
 
 .special-item {
   flex-basis: calc((100%-30px*3) / 4);
-
 }
 
 
@@ -463,8 +462,7 @@ margin-bottom: 50px;
   display: flex;
   flex-wrap: wrap;
     gap: 30px;
- flex-basis: calc((100%-30px*5) / 6);
-}
+ flex-basis: calc((100%-30px*5) / 6);}
 
 .customers-item{
   display: flex;
@@ -752,8 +750,7 @@ border: none;
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
- flex-basis: calc((100%-30px*2) / 3);
-}
+ flex-basis: calc((100%-30px*2) / 3);}
 
 .portfolio-link{
   display: block;
